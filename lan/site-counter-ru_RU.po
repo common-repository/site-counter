@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Counter 1.1\n"
+"POT-Creation-Date: 2016-06-22 21:44+0300\n"
+"PO-Revision-Date: 2016-06-22 21:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: Sam Williams <panchenko.vitaliy@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: site-counter.php:22
+msgid "Settings"
+msgstr "Настройки"
+
+#: site-counter.php:23
+msgid "Start counting from"
+msgstr "Начать отчёт с"
+
+#: site-counter.php:24
+msgid "How to store Cookies (days)"
+msgstr "Сколько хранить Cookie (дней)"
+
+#: site-counter.php:25
+msgid "Donate"
+msgstr "Помощь проекту"
+
+#: site-counter.php:29 site-counter.php:138
+msgid "Site Counter"
+msgstr "Site Counter"
+
+#: site-counter.php:46
+msgid "Statistic"
+msgstr "Статистика"
+
+#: site-counter.php:113
+msgid "Total:"
+msgstr "Всего:"
+
+#: site-counter.php:131 site-counter.php:134
+msgid "Site Counter Widget"
+msgstr "Site Counter Виджет"
+
+#: site-counter.php:167
+msgid "Title Wiget:"
+msgstr "Название Виджета:"
+
+#: site-counter.php:171
+#, php-format
+msgid "Text Widget(%s):"
+msgstr "Текст Виджета(%s):"
+
+#~ msgid "Today:"
+#~ msgstr "Сегодня:"
+
+#~ msgid "Yesterday:"
+#~ msgstr "Вчера:"
